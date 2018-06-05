@@ -158,3 +158,5 @@ A good explanation of this type of exploit can be found [here][jackson-deseriali
 [jackson-deserialization-gadget]: https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062
 
 
+
+
